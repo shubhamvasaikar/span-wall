@@ -15,3 +15,15 @@ A simple script to create a wallpaper that spans across 2 screens of different r
 ## Example:
     
     python span-wall.py -l 1600x900 -r 1920x1080 --ileft r6left.jpg --iright r6right.jpg -o r6spanned
+
+### Left Image:
+
+![alt text](http://i.imgur.com/rT3KlV0.jpg "Left Side Image")
+
+### Right Image:
+
+![alt text](http://i.imgur.com/yEFMuzb.jpg "Right Side Image")
+
+### Final Image:
+
+![alt text](http://i.imgur.com/D53spDm.jpg "Final Image")
